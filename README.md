@@ -1,2 +1,1 @@
-# Mobile-timeing-wysa
-Created with CodeSandbox
+wysa company

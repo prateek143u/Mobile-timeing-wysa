@@ -1,0 +1,13 @@
+.down_btn{
+    background-color: rgb(241, 187, 8);
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    color: #fff;
+    margin: 10px;
+    position: fixed;
+    bottom: 5px;
+    z-index: 10;
+    left: 40%;
+    cursor: pointer;
+}
